@@ -2,12 +2,11 @@
 This is a mobile cross-platform application for vulnerability assessment and penetration testing.
 
 Prerequisites:
-
-Python
-angular 2
-ionic 3
-cordova
-flask framework
+     Python
+     angular 2
+     ionic 3
+     cordova
+     flask framework
 Description:
 
 The application has a client side and a server side.
